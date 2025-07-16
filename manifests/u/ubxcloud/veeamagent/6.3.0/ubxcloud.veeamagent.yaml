@@ -1,0 +1,13 @@
+Id: ubxcloud.veeamagent
+Publisher: UBX Cloud
+Name: Veeam Agent for Windows
+Version: 6.3.0
+License: Proprietary
+Installers:
+  - Arch: x64
+    InstallerType: exe
+    Url: https://ubx-winget.b-cdn.net/binaries/myapp/veeamagent.exe
+    Sha256: D53480560547B1B091CB95A490B13A64F2E10FC7F0AB7EA865641B19EC885935
+    Scope: machine
+    InstallerSwitches:
+      Silent: /silent /accepteula /acceptthirdpartylicenses /acceptlicensingpolicy /acceptrequiredsoftware

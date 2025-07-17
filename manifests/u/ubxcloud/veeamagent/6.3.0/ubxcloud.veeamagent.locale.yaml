@@ -1,9 +1,0 @@
-PackageIdentifier: ubxcloud.veeamagent
-PackageVersion: 6.3.0
-PackageLocale: en-US
-Publisher: UBX Cloud
-PackageName: Veeam Agent for Windows
-ShortDescription: Veeam Agent backup software for Windows
-License: Proprietary
-ManifestType: defaultLocale
-ManifestVersion: 1.4.0

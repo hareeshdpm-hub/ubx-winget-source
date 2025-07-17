@@ -1,0 +1,14 @@
+# Created using wingetcreate 1.10.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.10.0.schema.json
+
+PackageIdentifier: VeeamSoftwareGroupGmbH.VeeamAgentforMicrosoftWindows
+PackageVersion: 6.3.2.1205
+InstallerType: portable
+Commands:
+- veeamagent
+Installers:
+- Architecture: x64
+  InstallerUrl: https://ubx-winget.b-cdn.net/binaries/myapp/veeamagent.exe
+  InstallerSha256: D53480560547B1B091CB95A490B13A64F2E10FC7F0AB7EA865641B19EC885935
+ManifestType: installer
+ManifestVersion: 1.10.0

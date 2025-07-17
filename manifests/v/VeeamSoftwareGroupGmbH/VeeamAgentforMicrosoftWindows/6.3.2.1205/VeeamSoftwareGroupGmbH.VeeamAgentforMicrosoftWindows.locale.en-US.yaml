@@ -1,0 +1,13 @@
+# Created using wingetcreate 1.10.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.10.0.schema.json
+
+PackageIdentifier: VeeamSoftwareGroupGmbH.VeeamAgentforMicrosoftWindows
+PackageVersion: 6.3.2.1205
+PackageLocale: en-US
+Publisher: Veeam Software Group GmbH
+PackageName: Veeam Agent for Microsoft Windows
+License: UBX
+Copyright: © 2006-2024 Veeam Software Group GmbH
+ShortDescription: Veeam Agent for Microsoft Windows Setup
+ManifestType: defaultLocale
+ManifestVersion: 1.10.0
